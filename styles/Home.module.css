@@ -1,0 +1,13 @@
+
+.center {
+
+ text-align: center;
+ margin-top: 40px;
+ 
+}
+
+.imgg{
+  height: 100%;
+  width: 100%;
+  border-radius: 5px;
+}
