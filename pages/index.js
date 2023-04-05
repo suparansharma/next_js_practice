@@ -7,11 +7,10 @@ const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
-    
+    <>
     <div className={styles.center}>
-
     <img className={styles.center} src="/pc.jpg"/>
     </div>
-    
+    </>
   )
 }
